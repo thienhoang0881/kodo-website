@@ -11,8 +11,8 @@ description: >-
 intro:
   blurbs:
     - image: /img/tutorials.png
-      text: hahahgjhghjghjghjgfjgfjgfjgfgj
-  heading: What we offer
+      text: ''
+  heading: jklhasfhalsfhlkajglkjsalg
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
