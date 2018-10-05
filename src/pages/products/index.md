@@ -10,7 +10,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/coffee-gear.png
+    - image: /img/tutorials.png
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
