@@ -11,6 +11,7 @@ description: >-
 intro:
   blurbs:
     - image: /img/tutorials.png
+      text: hahahgjhghjghjghjgfjgfjgfjgfgj
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
